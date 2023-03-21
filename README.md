@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BLACK-SCORP10
-- 👀 I’m interested in Automation and as n Ethical Hacker I am More Inolve I security.
+- 👀 I’m interested in Automation and as n Ethical Hacker I am More Inolve In security.
 - 🌱 I’m currently learning Everything I can
 - 💞️ I’m looking for Support.
 - 📫 alisayed.ml
