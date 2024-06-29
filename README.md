@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @BLACK-SCORP10
-- 👀 I’m interested in Automation and as n Ethical Hacker I am More Inolve In security.
-- 🌱 I’m currently learning Everything I can
-- 💞️ I’m looking for Support.
-- 📫 alisayed.ml
+- 👀 Passionate about Automation and Ethical Hacking, I'm heavily involved in security. 
+- 🌱 Currently, I’m learning as much as I can about cybersecurity and related fields. 
+- 💞️ Looking for support and collaboration with like-minded individuals. 
+- 📫 You can reach me at sayedalirizvi001@gmail.com
 
-<!---
-BLACK-SCORP10/BLACK-SCORP10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With a Master’s degree in Cybersecurity, I specialize in penetration testing, network security, and DevOps. I enjoy tackling emerging cyber threats and leveraging technology to secure digital infrastructures.
+
