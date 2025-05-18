@@ -1,86 +1,43 @@
-# 🛡️ Welcome to My Cybersecurity Lab
+# 🛡️ Cybersecurity | Hardware Hacking | DIY Everything
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=BLACK-SCORP10&color=orange)
 
 ## 👨‍💻 About Me
 
-I'm a cybersecurity researcher with a strong passion for **hardware hacking**, **application security**, and **physical access testing**. I specialize in bridging the gap between **digital** and **physical** security through hands-on experimentation, offensive research, and ethical testing.
+I'm a cybersecurity researcher passionate about **hardware hacking**, **appsec**, **ATM physical testing**, and building my own tools — digital or physical. From **NFC fuzzing** to **Wi-Fi exploitation**, and even **custom lockpicking kits**, I reverse engineer and DIY everything I can get my hands on.
 
-My work includes everything from **reverse engineering NFC tech** to **testing ATM hardware**, **Wi-Fi exploitation**, and **developing & selling lockpicking tools** for educational purposes.
-
-I **build**, **break**, and **Reverse Engineer** security with a goal: to make systems more secure through open research and responsible disclosure.
-
-**I DIY Anything & Everything**
+**I break stuff to understand it — then build it better.**
 
 ---
 
-## 🔧 Projects & Skills
+## 🔧 Areas of Focus
 
-### 🔐 Wireless & Application Security
-- **Wi-Fi auditing** using `airodump-ng`, `hcxdumptool`, `Bettercap`, and custom ESP32/ESP8266 scripts.
-- Penetration testing web/mobile applications with a focus on logic flaws, IDOR, and real-world exploitability.
-- Secure code reviews and dynamic testing using tools like **Burp Suite**, **ZAP**, **MobSF**, and **Frida**.
-
-### 📶 NFC/RFID Reverse Engineering
-- Studying and replicating features from tools like **Flipper Zero**, **Proxmark3**, and **Chameleon Ultra**.
-- Developing custom NFC sniffers and fuzzers using **Arduino/ESP**-based boards.
-- Cloning, emulating, and analyzing NFC tags and card protocols.
-
-### 🏧 ATM & Physical Security Testing
-- Assessing physical and electronic weaknesses in ATM machines (PIN pads, safes, cabinet bypass).
-- Simulating attacker tactics including tamper detection evasion and skimming devices (for legal research).
-- Lock mechanism testing and bypass simulations under controlled, authorized conditions.
-
-### 🛠️ Lockpicking & Tool Fabrication
-- Creating and selling **custom lockpicking tools** for lawful training and red teaming.
-- Offering **educational kits** for physical security workshops.
-- Precision cutting tools using CNC/laser fabrication workflows.
-
-### 🔌 Embedded & Hardware Hacking
-- Building ESP32/ESP8266/Arduino clusters for RF/NFC/Wi-Fi research.
-- Interfacing microcontrollers with **HackRF**, **RTL-SDR**, and RF analysis toolchains.
-- Crafting payload delivery devices via **HID emulation** and covert injection hardware.
+- 🛰️ **Wi-Fi & NFC Security** – ESP32/ESP8266-based tools, packet capture, relay & fuzzing attacks  
+- 🧷 **Lockpicking & Toolmaking** – Fabricating custom red team tools (yes, I sell them)  
+- 🏧 **ATM Hardware Testing** – Physical security assessments under legal scope  
+- 🛡️ **Application Security** – Web/Mobile pentesting with Burp Suite, MobSF, Frida  
+- 🔌 **Hardware Hacking** – DIY HID injectors, RF toys, SDR analysis, Arduino clusters
 
 ---
 
-## 🧰 Toolbox
+## 🧠 Currently Building
 
-| Category              | Tools & Tech                                      |
-|-----------------------|---------------------------------------------------|
-| OS & Platforms        | Kali Linux, Ubuntu, ESP-IDF, Arduino IDE          |
-| Wi-Fi Security        | Aircrack-ng, hcxdumptool, Wireshark, Bettercap   |
-| Application Security  | Burp Suite, ZAP, MobSF, Frida, Objection         |
-| NFC/RFID              | Proxmark3, ChameleonUltra, Flipper Zero, libnfc  |
-| Embedded Systems      | ESP32, ESP8266, Arduino Uno, PlatformIO          |
-| RF Tools              | HackRF, RTL-SDR, RFcat                           |
-| Physical Security     | Custom lockpick sets, bump tools, CNC/lab tools  |
-| Programming           | C/C++, Python, Bash, JavaScript                  |
+- NFC relays + fuzzers with ESP
+- Mobile app pentest toolkit
+- HID emulators with bypasses
+- Educational lockpick kits
 
 ---
 
-## 🧠 Currently Exploring
+## 🌐 Connect With Me
 
-- Red team tactics for ATM and POS device testing
-- Advanced NFC relay attacks using embedded gear
-- Molding & distribution of lockpicking kits
-- Mobile application pentesting automation
-- HID/Rubber Ducky-style devices via ESP32 with bypasses
-
----
-
-## 🌐 Let’s Connect
-
-- 🧠 X (Twitter): [@Ali-Sayed](https://x.com/Sayedali_001)
-- 💼 LinkedIn: [alisayed001](https://linkedin.com/in/alisayed001)
-- 💻 GitHub: [@BLACK-SCORP10](https://github.com/BLACK-SCORP10)
+- 🧠 X (Twitter): [@Sayedali_001](https://x.com/Sayedali_001)  
+- 💼 LinkedIn: [alisayed001](https://linkedin.com/in/alisayed001)  
+- 💻 GitHub: [@BLACK-SCORP10](https://github.com/BLACK-SCORP10)  
 - 📧 Email: `sayedalirizvi001@gmail.com`
 
 ---
 
-## ⚠️ Disclaimer
-
-> The tools and knowledge shared here are strictly for **educational, ethical, and research purposes only**. Always obtain proper authorization before performing any kind of testing, physical or digital. Unauthorized use may be illegal and unethical.
+> 🛑 **Disclaimer**: Everything here is for legal, ethical, and educational purposes only. Don't be stupid.
 
 ---
-
-Thanks for visiting. Stay sharp, hack legal 🔐👾
